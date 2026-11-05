@@ -1,6 +1,6 @@
 # ASSA 2026 Autumn School: Sound Field Decomposition Using Transducer Arrays
 
-This repository contains the exercises for the lecture *Sound field decomposition using transducer arrays* at the ASSA 2026 Autumn School.
+This repository contains the exercises for the lecture *Sound field decomposition using transducer arrays* at the [ASSA 2026 Autumn School Series in Acoustics](https://assaeindhoven.org/).
 
 ## Exercises
 
@@ -30,4 +30,10 @@ This project is licensed under the [Creative Commons Attribution 4.0 Internation
 
 ## Acknowledgments
 
+We thank the organizers of the Autumn School Series in Acoustics (ASSA 2026) at Eindhoven University of Technology.
+
+Exercise 1 is adapted from material for the DTU course 34860 Advanced Acoustics by Efren Fernandez Grande and Samuel Verburg.
+
 Exercise 2 is adapted from the [EAA Summer School 2025](https://github.com/samuel-verburg/EAA-summer-school-2025) material by Samuel Verburg, Efren Fernandez Grande and Antonio Figueroa Duran.
+
+All contributors and instructors involved in developing these materials: Melanie Nolan and Samuel Verburg.
